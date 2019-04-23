@@ -1,0 +1,28 @@
+/*file styles the admin page*/
+#header {
+  height: 50px;
+  background: #10284e;
+  color: white;
+}
+
+#branding h1 {
+  color: #fff;
+}
+
+a:link,
+a:visited {
+  color: #10284e;
+}
+
+div.breadcrumbs {
+  background: #30caa0;
+  color: #30caa0;
+}
+
+div.breadcrumbs a{
+  color: #333;
+}
+
+.module h2, .nodule caption, .inline-group h2 {
+  background: #30caa0;
+}
